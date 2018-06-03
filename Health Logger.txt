@@ -1,0 +1,18 @@
+[2018/06/03 15:46:19] Kreiran doktor: "Milan Milanovic"
+[2018/06/03 15:46:19] Kreiran pacijent: "Dragan Dragic"
+[2018/06/03 15:46:19] Pacijent: "Dragan Dragic" je izabrao/la lekara: "Milan Milanovic"
+
+[2018/06/03 15:46:19] Pacijent: "Dragan Dragic" odradio pregled: Krvni pritisak.
+Analiza: Merenje krvnog pritiska.
+Pacijent: "Dragan Dragic"
+Gornji pritisak: 135
+Donji pritisak: 124
+Puls: 172
+
+
+[2018/06/03 15:46:19] Pacijent: "Dragan Dragic" odradio pregled: Nivo secera u krvi.
+Analiza: Merenje nivoa secera u krvi.
+Pacijent: "Dragan Dragic"
+Nivo secera: 5.81 mmol/L
+Vreme poslednjeg obroka: 2018/06/03 07:46:19
+
